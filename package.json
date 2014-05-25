@@ -1,0 +1,17 @@
+{
+  "name": "es6-object-concise",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "through": "^2.3",
+    "recast": "^0.5",
+    "esprima": "git+https://github.com/ariya/esprima.git#harmony"
+  },
+  "devDependencies": {
+    "mocha": "^1.19",
+    "chai": "^1.9"
+  }
+}
