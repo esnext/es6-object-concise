@@ -11,7 +11,7 @@ var a = {
 };
 ```
 
-compiles to this:
+is mostly equivalent to:
 
 ```js
 var a = {
