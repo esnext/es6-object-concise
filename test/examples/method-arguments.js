@@ -1,5 +1,5 @@
 var a = {
-  echo: function(c) {
+  echo(c) {
     return c;
   }
 };

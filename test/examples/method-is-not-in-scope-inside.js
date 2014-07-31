@@ -1,7 +1,9 @@
+var b = 1;
+
 var a = {
   b() {
-    return typeof b;
+    return b;
   }
 };
 
-assert.equal(a.b(), 'undefined');
+assert.equal(a.b(), 1);
