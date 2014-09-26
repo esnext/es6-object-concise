@@ -1,6 +1,6 @@
 # es6-object-concise
 
-Compiles JavaScript written using ES6 object method declaration to ES4 syntax.
+Compiles JavaScript written using ES6 object method declaration to ES3 syntax.
 For example, this:
 
 ```js
