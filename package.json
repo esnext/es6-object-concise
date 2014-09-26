@@ -6,11 +6,11 @@
     "test": "node test/runner"
   },
   "dependencies": {
-    "ast-util": "^0.3.1",
-    "recast": "^0.6",
+    "ast-util": "^0.4",
+    "recast": "^0.7",
     "through": "^2.3"
   },
   "devDependencies": {
-    "example-runner": "^0.1.0"
+    "example-runner": "^0.2"
   }
 }
