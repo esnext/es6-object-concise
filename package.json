@@ -6,8 +6,8 @@
     "test": "node test/runner"
   },
   "dependencies": {
-    "ast-util": "^0.4",
-    "recast": "^0.7",
+    "ast-util": "^0.5",
+    "recast": "^0.8",
     "through": "^2.3"
   },
   "devDependencies": {
